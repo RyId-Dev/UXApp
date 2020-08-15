@@ -1,0 +1,138 @@
+<resources>
+    <string name="app_name">UIApp</string>
+
+    <string name="maintitle_text">UX Test App</string>
+
+    <string name="button_start">Continue</string>
+
+    <string name="placeholder">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
+        nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.
+        At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
+        takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur
+        sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam
+        erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita
+        kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut
+        labore et dolore magna aliquyam erat, sed diam voluptua. At vero
+    </string>
+
+    <string name="exptitle_text">Explanation</string>
+
+    <string name="exptext_text">The purpose of this app is to determine the influence of
+        User Interface design. It will collect data on the choices users make to determine which
+        elements on a page are the
+        most/least attractive to them, among other attributes. We will be using the Gestalt Principles
+        as a guideline to selectively test different layout properties. \n\nThese include:
+    </string>
+
+    <string name="ext1">Similarity</string>
+    <string name="simExpText">This principle is about how people naturally form relationships between
+        objects that look similar to eachother. </string>
+
+    <string name="ext2">Continuation</string>
+    <string name="contExpText">This principle is about how our eyes follow the smoothest
+    path along a screen.</string>
+
+    <string name="ext3">Closure</string>
+    <string name="closExpText">Closure is about how a group of objects can use negative space
+    to form an image where our minds fill in the empty space</string>
+
+    <string name="ext4">Proximity</string>
+    <string name="proxExpText">This principle concerns how objects can be organised with deliberate
+    spacing to visually group them together or apart.</string>
+
+    <string name="instructTxt">Please touch any of the icons to learn more about the principles</string>
+
+    <string name="instructTxt2">When you\'re ready, touch the button below to begin the test</string>
+
+    <string name="beginTxt">Begin Test</string>
+
+    <string name="cpTitleTxt">Colour Picker</string>
+
+    <string name="cpTxt">Choose your favourite colour</string>
+
+    <string name="redTxt">Red</string>
+    <string name="orangeTxt">Orange</string>
+    <string name="yellowTxt">Yellow</string>
+    <string name="darkgreenTxt">Dark Green</string>
+    <string name="greenTxt">Green</string>
+    <string name="springGreenTxt">Spring Green</string>
+    <string name="cyanTxt">Cyan</string>
+    <string name="azureTxt">Azure</string>
+    <string name="blueTxt">Blue</string>
+    <string name="violetTxt">Violet</string>
+    <string name="magentaTxt">Magenta</string>
+    <string name="roseTxt">Rose</string>
+    <string name="blackTxt">Black</string>
+    <string name="greyTxt">Grey</string>
+    <string name="whiteTxt">White</string>
+    <string name="lgtGreyTxt">Light Grey</string>
+
+    <string name="zeroTxt">Zero</string>
+    <string name="oneTxt">One</string>
+    <string name="twoTxt">Two</string>
+    <string name="threeTxt">Three</string>
+    <string name="fourTxt">Four</string>
+    <string name="fiveTxt">Five</string>
+
+    <string name="randTxt">Random</string>
+    <string name="noneTxt">None</string>
+    <string name="moreTxt">More</string>
+    <string name="bothTxt">Both</string>
+    <string name="both2Txt">Both Column and Row</string>
+    <string name="byColour">By Column (colour group)</string>
+    <string name="byBright">By Row (brightness)</string>
+
+    <string name="SimilarityTitle1">Similarity Test 1</string>
+    <string name="Sim1Q1">How many groups of elements do you perceive there to be?</string>
+    <string name="Sim1Q2">Which element colour stands out the most to you?</string>
+    <string name="Sim2Q2">How do you differentiate between different groups?</string>
+    <string name="SimilarityTitle2">Similarity Test 2</string>
+    <string name="SimilarityTitle3">Similarity Test 3</string>
+
+    <string name="contTest">Continuation Test</string>
+    <string name="ContTitle1">Continuation Test 1</string>
+    <string name="Cont1Q1">Which line stands out initially to you?</string>
+    <string name="yellowVertLine">Yellow Vertical Line</string>
+    <string name="blueHoriLine">Blue Horizontal Line</string>
+    <string name="neitherLines">Neither (Saw entire image as a whole)</string>
+    <string name="ContTitle2">Continuation Test 2</string>
+    <string name="ContTitle3">Continuation Test 3</string>
+    <string name="pinkLine">Pink Vertical Circle Line</string>
+    <string name="greenLine">Green Horizontal Square Line</string>
+    <string name="ContTitle4">Continuation Test 4</string>
+
+    <string name="closTest">Closure Test</string>
+    <string name="ClosQ">What shape do you initially see?</string>
+    <string name="ClosureTitle1">Closure Test 1</string>
+    <string name="ClosQ1A1">Two symmetrical C-shapes</string>
+    <string name="ClosQ1A2">Cross</string>
+    <string name="ClosQ1A3">Rectangle</string>
+    <string name="ClosQ1A4">None</string>
+    <string name="ClosureTitle2">Closure Test 2</string>
+    <string name="ClosQ2A1">Something</string>
+    <string name="ClosQ2A2">Triangle</string>
+    <string name="ClosQ2A3">Three Pac-man Shapes</string>
+    <string name="ClosQ2A4">None</string>
+    <string name="ClosureTitle3">Closure Test 3</string>
+    <string name="ClosQ3A1">Collection of triangles and irregular shapes</string>
+    <string name="ClosQ3A2">S-Shape</string>
+    <string name="ClosQ3A3">Something</string>
+    <string name="ClosQ3A4">None</string>
+
+    <string name="proxTest">Proximity Test</string>
+    <string name="ProxTitle1">Proximity Test 1</string>
+    <string name="ProxTitle2">Proximity Test 2</string>
+    <string name="ProxTitle3">Proximity Test 3</string>
+
+    <string name="symTest">Symmetry Test</string>
+    <string name="SymTitle1">Symmetry Test 1</string>
+    <string name="SymTitle2">Symmetry Test 2</string>
+    <string name="SymTitle3">Symmetry Test 3</string>
+
+    <string name="FinishTitle">Finished Test!</string>
+    <string name="FinishText">Finish Test</string>
+
+    <string name="newTest">Begin New Test</string>
+
+</resources>

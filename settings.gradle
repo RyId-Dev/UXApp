@@ -1,0 +1,2 @@
+rootProject.name='UIApp'
+include ':app'
